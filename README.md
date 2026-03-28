@@ -3,7 +3,7 @@
 An AI-powered web application that detects **fraudulent job postings** using Machine Learning (Logistic Regression + TF-IDF).
 
 ## 🚀 Live Demo
-🔗 [Click here to try it live](https://ai-fake-job-detection.onrender.com)
+🔗[Click here to try it live](https://ai-based-fake-job-detection-system.onrender.com)
 
 ## 📌 Features
 - Paste any job description and instantly detect if it's **Fake or Legitimate**
