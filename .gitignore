@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# Data (large file - don't upload to GitHub)
+fake_job_postings.csv
+
+# OS
+.DS_Store
+Thumbs.db
